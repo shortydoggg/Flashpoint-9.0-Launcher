@@ -1,7 +1,6 @@
 # Node/NPM
 node_modules
 npm-debug.log.*
-package-lock.json
 
 # Visual Studio Code
 /.vscode
@@ -30,3 +29,4 @@ Data/flashpoint.sqlite
 /.coveralls.yml
 /coverage
 /tests/result
+
