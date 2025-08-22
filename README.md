@@ -40,9 +40,9 @@ Install by running ``sudo apt install libgtk-3-0 libnss3``
 
 ### Development Setup
 
-1. Clone the repository with ``git clone --branch develop --recurse-submodules https://github.com/shortydoggg/launcher.git launcher`` (where ``launcher`` is the path of the directory you want to be the root of the repository).
+1. Clone the repository with ``git clone --recurse-submodules https://github.com/shortydoggg/Flashpoint-9.0-Launcher.git launcher`` (where ``launcher`` is the path of the directory you want to be the root of the repository).
 
-2. Navigate to the root of the repository and run ``npm install`` - this will download and install all the dependencies from npm (it may take a few minutes).
+2. Navigate to the root of the repository and run ``npm install --legacy-peer-deps`` - this will download and install all the dependencies from npm (it may take a few minutes).
 
 3. Run ``npm run build`` or ``npm run watch`` (at the root of the repository). This will compile the source code and such so the launcher can be executed. If ``watch`` is used, it will rebuild the launcher automatically when a source code or static file is changed.
 
