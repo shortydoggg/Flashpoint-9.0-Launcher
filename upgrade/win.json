@@ -1,0 +1,12 @@
+{
+  "infinity": {
+    "title": "infinity",
+    "description": "infinityDesc",
+    "verify_files":  [ "version.txt" ],
+    "verify_sha256": [ "5d0a3d7b4c8c1024b4dcad1e09681a480d8f7c10917291cfc88a88bf08b513e0" ],
+	"deletePaths": [ "FPSoftware\\BrowserPlugins\\", "FPSoftware\\Basilisk-Portable\\Bin\\"  ],
+    "keepPaths": [ "Data\\Playlists\\favorites.json" ],
+    "sources": [ "https://archive.org/download/fp-90-infinity/FP90-Infinity.zip" ],
+    "sources_sha256": "ef4b6f2ae6a2ac84ee49c4f29a9e83e266db579d5cd072b24f6f7b7ebeb5e260"
+  }
+}
