@@ -39,10 +39,10 @@ export const defaultPreferencesData: Readonly<AppPreferencesData> = Object.freez
   browsePageRightSidebarWidth: 320,
   curatePageLeftSidebarWidth: 320,
   showDeveloperTab: false,
-  currentTheme: 'Metal\\theme.css',
+  currentTheme: 'Metal',
   currentLogoSet: undefined,
   lastSelectedLibrary: '',
-  gamesOrderBy: 'title',
+  gamesOrderBy: 'dateAdded',
   gamesOrder: 'ASC',
   defaultLibrary: ARCADE,
   mainWindow: Object.freeze({

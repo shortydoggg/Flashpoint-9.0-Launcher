@@ -449,7 +449,7 @@
   },
   "upgrades": {
     "infinity": "Flashpoint Infinity",
-    "infinityDesc": "Required files. Adds support for Flash games.",
+    "infinityDesc": "Required files. Adds support for Flashpoint games.",
     "tech": "Other Technologies",
     "techDesc": "Adds support for all other tech - Shockwave, Unity, Java, HTML5, etc.",
     "screenshots": "Logos & Screenshots",
